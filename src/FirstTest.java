@@ -5,6 +5,8 @@ public class FirstTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello world from java...");
+		System.out.println("Hello world 2 from java...");
+
 	}
 
 }
